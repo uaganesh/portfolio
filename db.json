@@ -1,0 +1,53 @@
+{
+  "signupUsers": [
+    {
+      "fullname": "Adarsh M L",
+      "email": "adarsh@gmail.com",
+      "password": "1234",
+      "mobile": 9995551110,
+      "id": 1
+    },
+    {
+      "fullname": "Aswin",
+      "email": "aswin@gmail.com",
+      "password": "1234",
+      "mobile": 9988774455,
+      "id": 2
+    },
+    {
+      "fullname": "Aparna",
+      "email": "appu@gmail.com",
+      "password": "1234",
+      "mobile": 8956745214,
+      "id": 3
+    },
+    {
+      "fullname": "Arjith",
+      "email": "arjith@gmail.com",
+      "password": "1234",
+      "mobile": 9988774455,
+      "id": 4
+    },
+    {
+      "fullname": "Arjith",
+      "email": "arjith@gmail.com",
+      "password": "1234",
+      "mobile": 9988774455,
+      "id": 5
+    },
+    {
+      "fullname": "Arjith",
+      "email": "arjith@gmail.com",
+      "password": "1234",
+      "mobile": 9988774455,
+      "id": 6
+    },
+    {
+      "fullname": "Arjith",
+      "email": "arjith@gmail.com",
+      "password": "1234",
+      "mobile": 9988774455,
+      "id": 7
+    }
+  ]
+}

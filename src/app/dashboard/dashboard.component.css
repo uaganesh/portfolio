@@ -1,0 +1,65 @@
+.navbar-brand{
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    font-family:"Serif";
+}
+.navbar-brand:hover{
+    color: rgb(49, 61, 200);
+}
+.nav-link{
+   color: rgb(137, 136, 103);
+}
+.nav-link:hover {
+    color: rgb(49, 61, 200);
+  }
+.container1{
+    background-image: linear-gradient(antiquewhite, white);
+  }
+.p1{
+    padding-top: 10%;
+    padding-left: 30%;
+    padding-bottom: 1%;
+    color: black;
+    font-weight: bold;
+    font-size: 40px;
+    font-family:"Serif";
+}
+.p2{
+    color: rgb(137, 136, 103);
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 2%;
+}
+h2{
+    padding-top: 3%;
+    text-align: left;
+}
+#image{
+    padding-left: 20%;
+    padding-bottom: 3%;
+}
+#cardlink{
+    position: absolute;
+    right:    5px;
+    bottom:   5px;
+}
+#grid{
+    padding-bottom: 2%;
+}
+.button{
+    padding-left: 45%;
+    padding-bottom: 1%;
+    
+}
+#btn1{
+    border-color: #2196F3;
+    color: dodgerblue;
+    background-color: white;
+}
+#btn1:hover {
+    background: #2196F3;
+    color: white;
+  }
+  
